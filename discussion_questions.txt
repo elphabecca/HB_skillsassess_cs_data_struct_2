@@ -1,0 +1,20 @@
+Part 1: Discussion Questions
+
+Recursion
+
+In your own words, what is recursion?
+Recursion is looping over the same process building up (or down) from the same data until a pre-defined end-state is reached.
+
+Why is it necessary to have a base case?
+If you didn’t have a base case you’d recurse forever. (You’d be ‘recursed’ - eh? eh?)
+
+Graphs
+
+What is a graph?
+A collection of related nodes. Like a more liberated tree — they can have loops/cycles and can be directed or non-directed.
+
+How is a graph different from a tree?
+Trees flow one way only while graphs can be dissimilarly directed or a single node could have 2 parents.  This means that there is more than one way to get to a specific outcome/node.
+
+Give an example of something that would be good to model with a graph.
+Food tree, a game play (they have arrows going all over the place), email sending.
