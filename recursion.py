@@ -97,7 +97,10 @@ def num_nodes(tree):
         6
     """
 
-    pass
+    n = 1
+    for child in tree.children:
+        n += num_nodes(child)
+    return n
 
 #####################################################################
 # END OF ASSIGNMENT: You can ignore everything below.
