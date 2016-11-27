@@ -17,4 +17,4 @@ How is a graph different from a tree?
 Trees flow one way only while graphs can be dissimilarly directed or a single node could have 2 parents.  This means that there is more than one way to get to a specific outcome/node.
 
 Give an example of something that would be good to model with a graph.
-Food tree, a game play (they have arrows going all over the place), email sending.
+Food tree (aka food web), a game play (they have arrows going all over the place), email sending.
